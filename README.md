@@ -15,7 +15,7 @@
 - B站: https://space.bilibili.com/1550789
 - 邮箱：lxlylz1001@qq.com (请注明FAG相关)
 
-本规则中有着特殊的投掷规则，因此也制作了相应的骰子机器人，详情请参见https://github.com/enderloong/miaosbot。
+本规则中有着特殊的投掷规则，因此也制作了相应的骰子机器人，详情请参见 https://github.com/enderloong/miaosbot 
 
 目前仅支持在kook中调用，也欢迎一起开发。
 
