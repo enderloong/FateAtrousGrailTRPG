@@ -21,6 +21,22 @@
 
 kook版bot邀请链接：https://www.kookapp.cn/app/oauth2/authorize?id=11545&permissions=22528&client_id=LsZdCmqgKsmFkxjz&redirect_uri=&scope=bot
 
+### 如何下载
+
+如果您拥有git，可以直接通过git clone下载本仓库，之后也可以通过git pull快速获取最新版本。
+
+如果您没有git，则可以在点击页面上绿色的Code按钮，选择Download ZIP，下载本仓库的压缩包。
+
+为了方便传播，这里也放置百度网盘和移动云盘的分享链接，不定期更新分享内容。请注意二者有可能不是最新版本。
+
+百度网盘：
+链接：https://pan.baidu.com/s/1O1v94_fj8VR7qBpKh-y8xA?pwd=gu2z 
+提取码：gu2z 
+
+移动云盘：
+链接:https://caiyun.139.com/m/i?135Clrz0HtoG8
+提取码:DaML
+
 ### 应该如何使用？
 
 仓库共包含三个部分：规则书、角色卡、范例。

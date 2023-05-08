@@ -39,7 +39,8 @@
 
 - [ ] 网页版骰子
 - [ ] 带有骰子功能的聊天室
-- [ ] kook骰子bot。
+- [x] kook骰子bot。
+- [ ] discord骰子bot。
 - [ ] qq骰子bot。
 
 ## 角色卡
